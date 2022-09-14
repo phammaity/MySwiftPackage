@@ -1,0 +1,2 @@
+# MySwiftPackage
+my swiftpackage
