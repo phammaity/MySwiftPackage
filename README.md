@@ -1,2 +1,3 @@
 # MySwiftPackage
-my swiftpackage
+
+A description of this package.

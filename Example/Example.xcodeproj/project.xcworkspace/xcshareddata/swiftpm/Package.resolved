@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MySwiftPackage",
+        "repositoryURL": "https://github.com/phammaity/MySwiftPackage",
+        "state": {
+          "branch": "main",
+          "revision": "783e89d3a122a364291350120a11800697a6d12d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
